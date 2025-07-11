@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Saif Ullah</h1>
 
-<!--
-**SaifUllahAndDev/SaifUllahAndDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Aspiring Android Developer | Kotlin & Jetpack Compose Lover  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-6DB33F?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-007396?style=for-the-badge)
+![WorkManager](https://img.shields.io/badge/WorkManager-323330?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-00A8E8?style=for-the-badge)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF6F00?style=for-the-badge)
+![Coil](https://img.shields.io/badge/Coil-FA7343?style=for-the-badge)
+
+---
+
+### 📱 Portfolio Apps (Coming Soon...)
+
+- ✅ **Advanced To-Do App** – Categories, undo, filters
+- ✅ **News App** – Clean architecture, search, Retrofit
+- ✅ **Expense Tracker** – Charts, filters, Room
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=react" width="47%" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+- [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
+- 📧 Email: bilalnadia655@email.com
+
