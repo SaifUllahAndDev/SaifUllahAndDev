@@ -19,11 +19,11 @@
 
 ---
 
-### 📱 Portfolio Apps (Coming Soon...)
+### 📱 Portfolio Apps
 
-- ✅ **Advanced To-Do App** – Categories, undo, filters
-- ✅ **News App** – Clean architecture, search, Retrofit
-- ✅ **Expense Tracker** – Charts, filters, Room
+- ✅ **Advanced To-Do App** – Complete: due dates, priorities, filters, undo, and search
+- 🚧 **News App** – In progress: Clean architecture, Retrofit, search
+- 🔜 **Expense Tracker** – Coming soon: Charts, category filters, Room
 
 ---
 
