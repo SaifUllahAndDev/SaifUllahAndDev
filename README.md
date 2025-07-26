@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Saif Ullah</h1>
 
 <p align="center">
-  🚀 Aspiring Android Developer | Kotlin & Jetpack Compose Lover  
+  🚀 Aspiring Android Developer | Kotlin & Jetpack Compose Enthusiast  
 </p>
 
 ---
@@ -19,11 +19,18 @@
 
 ---
 
-### 📱 Portfolio Apps
+### 📱 Portfolio Projects
 
-- ✅ **Advanced To-Do App** – Complete: due dates, priorities, filters, undo, and search
-- 🚧 **News App** – In progress: Clean architecture, Retrofit, search
-- 🔜 **Expense Tracker** – Coming soon: Charts, category filters, Room
+- ✅ **Advanced To-Do App** – Completed  
+  _A fully-featured productivity app with due dates, priorities, undo, search, filters, and a clean MVVM architecture._  
+  [🔗 View Project](https://github.com/YOUR_USERNAME/AdvancedToDoApp)
+
+- ✅ **News App** – Completed  
+  _Modern news reader with Retrofit integration, clean architecture, search, bookmarks, and sharing._  
+  [🔗 View Project](https://github.com/YOUR_USERNAME/NewsApp)
+
+- 🚧 **Capstone App – Expense Tracker** (In Development)  
+  _An upcoming personal finance tracker with Room, category filters, interactive charts, and summaries._
 
 ---
 
@@ -40,4 +47,5 @@
 
 - [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
 - 📧 Email: bilalnadia655@email.com
+
 
