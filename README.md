@@ -21,16 +21,17 @@
 
 ### 📱 Portfolio Projects
 
-- ✅ **Advanced To-Do App** – Completed  
-  _A fully-featured productivity app with due dates, priorities, undo, search, filters, and a clean MVVM architecture._  
+- ✅ **Advanced To-Do App**  
+  _A fully-featured productivity app with due dates, priorities, undo functionality, search, filters, and a clean MVVM architecture._  
   [🔗 View Project](https://github.com/YOUR_USERNAME/AdvancedToDoApp)
 
-- ✅ **News App** – Completed  
-  _Modern news reader with Retrofit integration, clean architecture, search, bookmarks, and sharing._  
+- ✅ **News App**  
+  _Modern news reader using Retrofit and clean architecture. Includes search, bookmarks, article sharing, and responsive UI._  
   [🔗 View Project](https://github.com/YOUR_USERNAME/NewsApp)
 
-- 🚧 **Capstone App – Expense Tracker** (In Development)  
-  _An upcoming personal finance tracker with Room, category filters, interactive charts, and summaries._
+- ✅ **Expense Tracker**  
+  _A personal finance tracker with category tagging, Room database, pie chart summaries, monthly filters, and a clean polished UI._  
+  [🔗 View Project](https://github.com/YOUR_USERNAME/ExpenseTrackerApp)
 
 ---
 
@@ -47,5 +48,3 @@
 
 - [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
 - 📧 Email: bilalnadia655@email.com
-
-
