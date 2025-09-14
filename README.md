@@ -23,7 +23,7 @@
 
 - ✅ **Advanced To-Do App**  
   _A fully-featured productivity app with due dates, priorities, undo functionality, search, filters, and a clean MVVM architecture._  
-  [🔗 View Project](https://github.com/YOUR_USERNAME/AdvancedToDoApp)
+  [🔗 View Project](https://github.com/SaifUllahAndDev/AdvancedToDoApp)
 
 - ✅ **News App**  
   _Modern news reader using Retrofit and clean architecture. Includes search, bookmarks, article sharing, and responsive UI._  
