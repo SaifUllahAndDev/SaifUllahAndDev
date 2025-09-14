@@ -27,11 +27,11 @@
 
 - ✅ **News App**  
   _Modern news reader using Retrofit and clean architecture. Includes search, bookmarks, article sharing, and responsive UI._  
-  [🔗 View Project](https://github.com/YOUR_USERNAME/NewsApp)
+  [🔗 View Project](https://github.com/SaifUllahAndDev/NewsHub)
 
 - ✅ **Expense Tracker**  
   _A personal finance tracker with category tagging, Room database, pie chart summaries, monthly filters, and a clean polished UI._  
-  [🔗 View Project](https://github.com/YOUR_USERNAME/ExpenseTrackerApp)
+  [🔗 View Project](https://github.com/SaifUllahAndDev/Capstone-App)
 
 ---
 
